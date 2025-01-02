@@ -1,0 +1,15 @@
+/Users/annkhalus/Desktop/NumbersApp/bin/Debug/net9.0/NumbersApp
+/Users/annkhalus/Desktop/NumbersApp/bin/Debug/net9.0/NumbersApp.deps.json
+/Users/annkhalus/Desktop/NumbersApp/bin/Debug/net9.0/NumbersApp.runtimeconfig.json
+/Users/annkhalus/Desktop/NumbersApp/bin/Debug/net9.0/NumbersApp.dll
+/Users/annkhalus/Desktop/NumbersApp/bin/Debug/net9.0/NumbersApp.pdb
+/Users/annkhalus/Desktop/NumbersApp/obj/Debug/net9.0/NumbersApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annkhalus/Desktop/NumbersApp/obj/Debug/net9.0/NumbersApp.AssemblyInfoInputs.cache
+/Users/annkhalus/Desktop/NumbersApp/obj/Debug/net9.0/NumbersApp.AssemblyInfo.cs
+/Users/annkhalus/Desktop/NumbersApp/obj/Debug/net9.0/NumbersApp.csproj.CoreCompileInputs.cache
+/Users/annkhalus/Desktop/NumbersApp/obj/Debug/net9.0/NumbersApp.sourcelink.json
+/Users/annkhalus/Desktop/NumbersApp/obj/Debug/net9.0/NumbersApp.dll
+/Users/annkhalus/Desktop/NumbersApp/obj/Debug/net9.0/refint/NumbersApp.dll
+/Users/annkhalus/Desktop/NumbersApp/obj/Debug/net9.0/NumbersApp.pdb
+/Users/annkhalus/Desktop/NumbersApp/obj/Debug/net9.0/NumbersApp.genruntimeconfig.cache
+/Users/annkhalus/Desktop/NumbersApp/obj/Debug/net9.0/ref/NumbersApp.dll
